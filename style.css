@@ -1,0 +1,64 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.ptag{
+ font-size:20px;
+ 
+ text-align: center;
+
+}
+
+.hero{
+  height: 100%;
+  width:100%;
+  background-color:rgb(94, 94, 152);
+  background-position: center;
+  background-size: cover;
+  position: absolute;
+}
+.form-box{
+width: 400px;
+height: 400px;
+background: white;
+position: relative;
+margin: 10% auto;
+}
+.input-filed{
+  width: 320px;
+  padding: 10px 0px;
+    
+ border: 1px solid black;
+ background: transparent;
+   margin-left:40px ;
+   margin-top: 10px;
+  font-size: 15px;
+}
+.btn{
+ width:320px;
+ margin-left:40px ;
+margin-top: 10px;
+  padding: 10px;
+  background-color: rgb(39, 39, 146);
+  color: white;
+  font-size: 15px;
+}
+a{
+  color:white;
+  text-decoration: none;
+}   
+
+p{
+  margin-left:40px;
+}
+.span{
+    float: right;
+    margin-right: 40px;
+    font-size: 15px;
+    text-decoration: none
+
+}
+ span :hover{
+    background-color: rgb(103, 79, 79);
+ }
